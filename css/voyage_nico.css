@@ -163,7 +163,7 @@ nav > ul > li:hover > a {
 /* Titre */
 
 .back_grand {
-    background-image: url(../images_voyages/nico/background.jpg);
+    background-image: url(../image/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0s.7;
@@ -296,7 +296,7 @@ li {
 .photo1_interet {
     width: 100px;
     height: 100px;
-    background-image: url(../images_voyages/nico/interet1.jpg);
+    background-image: url(../image/interet1.jpg);
     background-size: 600px 500px;
     background-repeat: no-repeat;
     transition: width 2s, height 4s;
@@ -335,7 +335,7 @@ li {
 .photo2_interet {
     width: 100px;
     height: 100px;
-    background-image: url(../images_voyages/nico/temple.jpg);
+    background-image: url(../image/temple.jpg);
     background-size: 600px 500px;
     background-repeat: no-repeat;
     transition: width 2s, height 1s;
@@ -345,7 +345,7 @@ li {
 .photo3_interet {
     width: 100px;
     height: 100px;
-    background-image: url(../images_voyages/nico/statue.jpg);
+    background-image: url(../image/statue.jpg);
     background-size: 600px 500px;
     background-repeat: no-repeat;
     transition: width 2s, height 1s;
@@ -355,7 +355,7 @@ li {
 .photo4_interet {
     width: 100px;
     height: 100px;
-    background-image: url(../images_voyages/nico/plage.jpg);
+    background-image: url(../image/plage.jpg);
     background-size: 600px 500px;
     background-repeat: no-repeat;
     transition: width 2s, height 1s;
